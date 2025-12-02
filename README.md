@@ -1,5 +1,5 @@
 # 💫 About Me:
-👽 Hey! My name is ali<br><br>🔭 I’m currently working on Upfund<br><br>🌱 I’m currently learning React <br><br>💬 Ask me about Angular<br><br>📫 How to reach me alielmufti25@gmail.com<br><br>🧑‍🦲 If you're here, either you're nerd like me or a recruter who knows what he's doing, so don't hesitate and send me an email
+👽 Hey! My name is ali<br><br>Huge 🧀cheese🧀  ( ͡° ͜ʖ ͡°)enthusiast ( ͡° ͜ʖ ͡°) <br><br>🔭 I’m currently working on Upfund<br><br>🌱 I’m currently learning React <br><br>💬 Ask me about Angular<br><br>📫 How to reach me alielmufti25@gmail.com<br><br>🧑‍🦲 If you're here, either you're nerd like me or a recruter who knows what he's doing, so don't hesitate and send me an email
 
 
 ## 🌐 Socials:
