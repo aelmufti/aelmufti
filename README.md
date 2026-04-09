@@ -61,7 +61,7 @@ I build **scalable frontend architectures** for companies that take their produc
   ║   🎯  malt.fr/profile/alielmuftiangulartechlead            ║
   ║   📧  alielmufti25@gmail.com                               ║
   ║   💼  linkedin.com/in/ali-el-mufti                         ║
-  ║                                                            ║
+  ║   🧑🏻‍💻  www.aelm.dev                                                           ║
   ║   Currently building: Upfund                               ║
   ║                                                            ║
   ╚════════════════════════════════════════════════════════════╝
