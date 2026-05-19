@@ -12,9 +12,7 @@
 
 <br>
 
-## ⚡ Check [my website](www.aelm.dev) for complentary informations 
-
-<br>
+# 🫀 All info available on [my website](https://www.aelm.dev) 
 
 
 ## ⚡ Available for freelance — [Book me on Malt](https://www.malt.fr/profile/alielmuftiangulartechlead)
