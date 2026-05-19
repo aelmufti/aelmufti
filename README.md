@@ -12,6 +12,7 @@
 
 <br>
 ## ⚡ Check [my website](www.aelm.dev) for complentary informations 
+
 ## ⚡ Available for freelance — [Book me on Malt](https://www.malt.fr/profile/alielmuftiangulartechlead)
 
 I build **scalable frontend architectures** for companies that take their product seriously. Angular is my bread and butter, but I move across the full stack when the project needs it.
